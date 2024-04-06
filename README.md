@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My [CV](https://github.com/MishenkovDaniil/Mishenkovdaniil/CV/cv.md)
 <!--
 **MishenkovDaniil/Mishenkovdaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
